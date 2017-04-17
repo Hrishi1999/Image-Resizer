@@ -7,3 +7,12 @@ c:\users\hrishi\documents\visual studio 2015\Projects\Image Resizer\Image Resize
 c:\users\hrishi\documents\visual studio 2015\Projects\Image Resizer\Image Resizer\bin\Debug\Image Resizer.pdb
 c:\users\hrishi\documents\visual studio 2015\Projects\Image Resizer\Image Resizer\obj\Debug\Image Resizer.exe
 c:\users\hrishi\documents\visual studio 2015\Projects\Image Resizer\Image Resizer\obj\Debug\Image Resizer.pdb
+C:\Users\Hrishi\Desktop\Extras\Repos\Image-Resizer\Image Resizer\bin\Debug\Image Resizer.exe.config
+C:\Users\Hrishi\Desktop\Extras\Repos\Image-Resizer\Image Resizer\obj\Debug\Image Resizer.exe
+C:\Users\Hrishi\Desktop\Extras\Repos\Image-Resizer\Image Resizer\obj\Debug\Image Resizer.pdb
+C:\Users\Hrishi\Desktop\Extras\Repos\Image-Resizer\Image Resizer\bin\Debug\Image Resizer.exe
+C:\Users\Hrishi\Desktop\Extras\Repos\Image-Resizer\Image Resizer\bin\Debug\Image Resizer.pdb
+C:\Users\Hrishi\Desktop\Extras\Repos\Image-Resizer\Image Resizer\obj\Debug\Image Resizer.csprojResolveAssemblyReference.cache
+C:\Users\Hrishi\Desktop\Extras\Repos\Image-Resizer\Image Resizer\obj\Debug\Image_Resizer.Form1.resources
+C:\Users\Hrishi\Desktop\Extras\Repos\Image-Resizer\Image Resizer\obj\Debug\Image_Resizer.Properties.Resources.resources
+C:\Users\Hrishi\Desktop\Extras\Repos\Image-Resizer\Image Resizer\obj\Debug\Image Resizer.csproj.GenerateResource.Cache
